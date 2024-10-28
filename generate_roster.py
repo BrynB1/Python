@@ -3,7 +3,7 @@
 # CS-175
 # Spring 2022
 def main():
-    infile = open('cs176roster.webadvisor.txt', 'r')
+    infile = open('roster.txt', 'r')
     generate_roster(infile)
 
 
